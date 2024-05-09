@@ -1,5 +1,5 @@
 { 
-    requestmethod : "post",
-    request_api : "181.215.254.230",
-    requst_api_port : "6969"
+    "requestmethod" : "POST",
+    "request_api" : "http://181.215.254.230",
+    "requst_api_port" : 6969
 }
